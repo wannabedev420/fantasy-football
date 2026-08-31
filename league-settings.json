@@ -11,13 +11,14 @@
     "bench_slots": 6,
     "total_roster_spots": 15,
     "superflex": false,
-    "note": "League settings.draft_rounds reported as 3, which is inconsistent with 15 roster spots. Needs manual confirmation from the Sleeper draft room before draft day."
+    "draft_rounds": 15,
+    "note": "Confirmed with league: 15 rounds (league settings JSON field was stale/inaccurate)."
   },
   "keepers": {
     "max_keepers": 1,
     "keeper_deadline": "0",
     "copy_from_league_id": "1253449420490420224",
-    "note": "Unconfirmed whether this is an active keeper league for 2026 or a vestigial setting. Needs manual confirmation."
+    "note": "Confirmed with league: NOT an active keeper league for 2026 - fresh start, no keepers."
   },
   "scoring_settings_raw": {
     "pass_yd": 0.04,

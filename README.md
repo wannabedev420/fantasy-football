@@ -11,10 +11,18 @@ Season-long assistant folder for our Sleeper league. Co-managed with Rob (resear
 - `league-settings.json` — parsed scoring rules, roster format, and league operations pulled from the Sleeper API
 - `draft-cheatsheet.md` — tiered rankings/cheat sheet for draft day, built from current ADP/rankings reconciled to our scoring
 - `draft-log.md` — live pick-by-pick log kept during the draft
-- `data/` — supporting research notes, trade evaluations, and weekly digest output
+- `trade-evaluation.md` — workflow/checklist/prompt template for evaluating in-season trade offers
+- `scripts/daily_digest.py` — pulls your Sleeper roster and flags injury/status changes; runs manually or via cron (see script docstring for setup)
+- `data/` — supporting research notes, trade log, and digest output/cache (gitignored where it holds cached player data)
 
 ## Open items
 
-- Confirm actual draft round count in the Sleeper draft room (league settings reported `draft_rounds: 3`, which doesn't match our 15 roster spots)
-- Confirm whether the league's keeper setting (`max_keepers: 1`) is active for 2026
-- Get draft slot once Sleeper assigns it
+- Get draft slot once Sleeper assigns it (likely known day-of)
+
+## Confirmed
+- Draft is 15 rounds (fills all 15 roster spots)
+- Not a keeper league for 2026 — fresh start
+
+## Known limitation
+
+This project may run inside a sandboxed Claude Code environment whose network policy blocks direct access to Sleeper, FantasyPros, ESPN, etc. (`WebFetch`/`curl` to those domains return `EGRESS_BLOCKED`). Web search still works. When live scraped data is needed (e.g. an up-to-the-minute ranking table), either paste the page content/screenshot into the chat, or run Claude Code locally on your own machine, which won't have this restriction.
