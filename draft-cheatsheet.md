@@ -3,7 +3,7 @@
 **Draft**: Monday, Sept 6, 2026 6:00 PM · Snake draft · 10 teams · slot TBD
 **Scoring**: Full PPR, 6-pt passing TD, 0.1/rush-rec yd, 0.04/pass yd, distance-based K, points-allowed-heavy DEF
 **Roster**: QB, RB, RB, WR, WR, TE, FLEX, K, DEF, 6 BN (15 total)
-**Open items to confirm before draft**: actual draft round count (league JSON says `draft_rounds: 3`, doesn't match 15 roster spots), whether the league's 1-keeper setting is live for 2026, your draft slot once assigned.
+**Confirmed**: 15-round draft, not a keeper league (fresh start for 2026). **Still open**: your draft slot, once Sleeper assigns it.
 
 > **Data note**: Reconciled Sept 2, 2026 from two live sources — ESPN's Field Yates top-160 PPR rankings (fetched in full) and FantasyPros' PPR consensus cheat sheet (fetched partially — its rankings table loads via JavaScript, so only its top ~24 overall plus positional top-11 lists were retrievable directly; a Bleacher Report recap sourced from the same FantasyPros consensus filled in ranks 25-40). Where the two disagreed meaningfully, both views are noted below rather than silently picking one. **Re-run a search the morning of the draft** for last-minute injury/inactive news — this reconciliation is a snapshot, not a live feed.
 
@@ -95,6 +95,5 @@ Once base roster is filled: prioritize (a) backup RBs on committees who'd inheri
 ---
 
 ## Next steps
-- [ ] Confirm actual draft round count and keeper status (see Open Items above)
 - [ ] Paste your draft slot once Sleeper assigns it — I'll tailor the strategy table to your pick position
 - [ ] Morning-of-draft: re-run a quick news search for last-minute injury/inactive news before the 6PM start
