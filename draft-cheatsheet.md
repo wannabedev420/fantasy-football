@@ -1,56 +1,79 @@
 # Draft Cheat Sheet — Garse and the Guys (2026)
 
-**Draft**: Monday, Sept 8, 2026 6:00 PM · Snake draft · 10 teams · slot TBD
+**Draft**: Monday, Sept 6, 2026 6:00 PM · Snake draft · 10 teams · slot TBD
 **Scoring**: Full PPR, 6-pt passing TD, 0.1/rush-rec yd, 0.04/pass yd, distance-based K, points-allowed-heavy DEF
 **Roster**: QB, RB, RB, WR, WR, TE, FLEX, K, DEF, 6 BN (15 total)
 **Open items to confirm before draft**: actual draft round count (league JSON says `draft_rounds: 3`, doesn't match 15 roster spots), whether the league's 1-keeper setting is live for 2026, your draft slot once assigned.
 
-> **Data note**: This environment's network policy blocks direct access to Sleeper, FantasyPros, ESPN, etc. — everything below is compiled from web search snippets as of Aug 31, 2026, not a scraped live ranking table. Names/tiers are directionally solid but exact ordering can move in the final week of camp/preseason. **Re-run a quick search the morning of the draft** ("fantasy football rankings [date]") to catch late injury news, or paste me a fresh FantasyPros/ESPN cheat sheet screenshot right before you draft.
+> **Data note**: Reconciled Sept 2, 2026 from two live sources — ESPN's Field Yates top-160 PPR rankings (fetched in full) and FantasyPros' PPR consensus cheat sheet (fetched partially — its rankings table loads via JavaScript, so only its top ~24 overall plus positional top-11 lists were retrievable directly; a Bleacher Report recap sourced from the same FantasyPros consensus filled in ranks 25-40). Where the two disagreed meaningfully, both views are noted below rather than silently picking one. **Re-run a search the morning of the draft** for last-minute injury/inactive news — this reconciliation is a snapshot, not a live feed.
 
 ---
 
-## 1. Overall Top Tier (consensus, as of late Aug 2026)
+## 1. Top 150 — Tiered
 
-Consensus #1 overall is split between **Jahmyr Gibbs** and **Bijan Robinson** depending on source; both go in the first few picks along with **Christian McCaffrey**, **Ja'Marr Chase**, **Puka Nacua**, and **Jaxon Smith-Njigba**. Treat picks 1-6 as one flexible tier — take the name you trust most, not the exact rank.
+Ranks are the reconciled order (ESPN backbone, adjusted against FantasyPros where the two sources agreed on ordering). Treat every tier as roughly interchangeable — draft the name you trust, not the exact number.
 
-**Tier 1 (locks, picks ~1-6):** Jahmyr Gibbs, Bijan Robinson, Christian McCaffrey, Ja'Marr Chase, Puka Nacua, Jaxon Smith-Njigba
-**Tier 2 (picks ~7-14):** Jonathan Taylor, other top-tier WR1s and the next elite RBs. Verify order live — WR depth is deeper than RB depth this year per multiple sources, which argues for leaning RB/elite-WR combo in the first 2 rounds rather than reaching for a second-tier RB in round 3 just because "RB is scarce."
+**Tier 1 — the 1.01 debate (picks ~1-6):** Bijan Robinson (RB, ATL), Jahmyr Gibbs (RB, DET), Christian McCaffrey (RB, SF), Ja'Marr Chase (WR, CIN), Puka Nacua (WR, LAR), Jaxon Smith-Njigba (WR, SEA)
+*Sources disagree on the exact 1.01: ESPN's Yates has Bijan Robinson #1 overall; FantasyPros' consensus has Ja'Marr Chase #1. Both agree these six are a tier above everyone else.*
+
+**Tier 2 (~7-15):** Jonathan Taylor (RB, IND), De'Von Achane (RB, MIA), Amon-Ra St. Brown (WR, DET), James Cook III (RB, BUF), Derrick Henry (RB, BAL), Justin Jefferson (WR, MIN), CeeDee Lamb (WR, DAL), Chase Brown (RB, CIN), Kenneth Walker III (RB, KC)
+
+**Tier 3 (~16-27):** Brock Bowers (TE, LV), Drake London (WR, ATL), Trey McBride (TE, ARI), Rashee Rice (WR, KC), Jeremiyah Love (RB, ARI), Saquon Barkley (RB, PHI), Omarion Hampton (RB, LAC), Ashton Jeanty (RB, LV), Javonte Williams (RB, DAL), Malik Nabers (WR, NYG), A.J. Brown (WR, NE), Chris Olave (WR, NO)
+
+**Tier 4 (~28-39):** Josh Allen (QB, BUF), George Pickens (WR, DAL), Breece Hall (RB, NYJ), Kyren Williams (RB, LAR), Travis Etienne Jr. (RB, NO), Emeka Egbuka (WR, TB), Garrett Wilson (WR, NYJ), Colston Loveland (TE, CHI), Lamar Jackson (QB, BAL), Quinshon Judkins (RB, CLE), D'Andre Swift (RB, CHI), Nico Collins (WR, HOU)
+
+**Tier 5 (~40-52):** Jayden Daniels (QB, WSH), Zay Flowers (WR, BAL), Tetairoa McMillan (WR, CAR), DeVonta Smith (WR, PHI), Jaylen Waddle (WR, DEN), Cam Skattebo (RB, NYG), Tyler Warren (TE, IND), Bucky Irving (RB, TB), Drake Maye (QB, NE), Bhayshul Tuten (RB, JAX), Davante Adams (WR, LAR), Ladd McConkey (WR, LAC), Jalen Hurts (QB, PHI)
+
+**Tier 6 (~53-64):** Harold Fannin Jr. (TE, CLE), Jadarian Price (RB, SEA), Josh Jacobs (RB, GB), David Montgomery (RB, HOU), Tee Higgins (WR, CIN), Kyle Pitts Sr. (TE, ATL), Justin Herbert (QB, LAC), Terry McLaurin (WR, WSH), Carnell Tate (WR, TEN), Rhamondre Stevenson (RB, NE), Tony Pollard (RB, TEN), George Kittle (TE, SF)
+
+**Tier 7 (~65-80):** Chuba Hubbard (RB, CAR), TreVeyon Henderson (RB, NE), Rome Odunze (WR, CHI), DK Metcalf (WR, PIT), Kenneth Gainwell (RB, TB), Jaxson Dart (QB, NYG), Jaylen Warren (RB, PIT), DJ Moore (WR, BUF), Joe Burrow (QB, CIN), Marvin Harrison Jr. (WR, ARI), Trevor Lawrence (QB, JAX), Christian Watson (WR, GB), Luther Burden III (WR, CHI), Parker Washington (WR, JAX), Jameson Williams (WR, DET), Wan'Dale Robinson (WR, TEN)
+
+**Tier 8 (~81-99):** Rachaad White (RB, WSH), Sam LaPorta (TE, DET), Aaron Jones Sr. (RB, MIN), Stefon Diggs (WR, WSH), Michael Wilson (WR, ARI), Mike Evans (WR, SF), Courtland Sutton (WR, DEN), Tucker Kraft (TE, GB), Dak Prescott (QB, DAL), Patrick Mahomes (QB, KC), Michael Pittman Jr. (WR, PIT), Jake Ferguson (TE, DAL), Jakobi Meyers (WR, JAX), Dallas Goedert (TE, PHI), MarShawn Lloyd (RB, GB), Brock Purdy (QB, SF), Matthew Stafford (QB, LAR), Bo Nix (QB, DEN), Travis Kelce (TE, KC)
+
+**Tier 9 (~100-120):** Kyle Monangai (RB, CHI), Jonathon Brooks (RB, CAR), Chris Godwin Jr. (WR, TB), Matthew Golden (WR, GB), Alec Pierce (WR, IND), Josh Downs (WR, IND), Caleb Williams (QB, CHI), Brian Thomas Jr. (WR, JAX), De'Zhaun Stribling (WR, SF), J.K. Dobbins (RB, DEN), RJ Harvey (RB, DEN), Jacory Croskey-Merritt (RB, WSH), Jordan Love (QB, GB), Daniel Jones (QB, IND), Blake Corum (RB, LAR), Romeo Doubs (WR, NE), Rico Dowdle (RB, PIT), Jordan Addison (WR, MIN), Juwan Johnson (TE, NO), Hunter Henry (TE, NE), Jalen Coker (WR, CAR)
+
+**Tier 10 (~121-140):** Dalton Schultz (TE, HOU), Tyler Shough (QB, NO), Tyjae Spears (RB, TEN), Zach Charbonnet (RB, SEA), Woody Marks (RB, HOU), Jordan Mason (RB, MIN), Isaiah Likely (TE, NYG), Kyler Murray (QB, MIN), Khalil Shakir (WR, BUF), Deebo Samuel (WR, SF), Keenan Allen (WR, IND), Calvin Ridley (WR, TEN), Alvin Kamara (RB, NO), Quentin Johnston (WR, LAC), Jayden Reed (WR, GB), Xavier Worthy (WR, KC), Tank Dell (WR, HOU), Tyler Allgeier (RB, ARI), Keaton Mitchell (RB, LAC), Isiah Pacheco (RB, DET)
+
+**Tier 11 — K/DEF, draft last (~141-150):** Brandon Aubrey (K, DAL), Cameron Dicker (K, LAC), Houston Texans (DST), Denver Broncos (DST), Seattle Seahawks (DST), Los Angeles Rams (DST), Pittsburgh Steelers (DST), Ka'imi Fairbairn (K, HOU), Eddy Pineiro (K, SF), Chris Boswell (K, PIT)
 
 ## 2. Quarterback — 6-pt passing TD context
 
 Your league's 6-pt (not 4-pt) passing TD bump raises QB scoring, but it raises **every** QB's floor too, including waiver streamers — so it's a smaller edge than it looks. The consensus take: **you still don't need to draft a QB early in a 1-QB league**, but a rushing QB gets an extra bump from 6-pt TDs beyond his rushing floor.
 
-- **Top tier**: Josh Allen, Lamar Jackson, Jayden Daniels — the rushing-QB trio remains the safest "if you want one early" group.
-- **Next tier**: Drake Maye, Joe Burrow (best bet to lead the league in passing TDs if he stays healthy — durability is the real risk, not talent).
-- **Strategy**: Given only 1 starting QB spot and a deep, waiver-replaceable QB pool most years, plan to take your QB in the 6-9 round range unless one of the rushing-QB tier falls unexpectedly. Don't panic if you punt QB to rounds 10+.
+- **Top tier**: Josh Allen, Lamar Jackson — the rushing-QB duo remains the safest "if you want one early" pair, going late Round 3 / early Round 4 in a 10-team league.
+- **Next tier**: Jayden Daniels, Drake Maye, Jalen Hurts, Justin Herbert cluster in Rounds 4-5. Joe Burrow sits a bit lower in this reconciliation (~Tier 7) than his talent alone would suggest — durability is the real risk, not arm talent.
+- **Source disagreement worth knowing**: ESPN's Yates has rookie Jaxson Dart (NYG) ranked ahead of Burrow. That's an outlier take — don't let it talk you into reaching for Dart, but it's a signal his rushing floor has real fantasy relevance if he keeps the starting job.
+- **Strategy**: Given only 1 starting QB spot and a deep, waiver-replaceable QB pool most years, plan to take your QB in the 5-8 round range unless Allen or Lamar falls unexpectedly. Don't panic if you punt QB to rounds 9+.
 
 ## 3. Running Back
 
 RB remains the position where you can't be short two startable bodies going into the season — PPR softens (doesn't erase) the talent cliff because pass-catching backs hold value even in timeshares.
 
-- Early-round names beyond the Tier-1 group above: expect Jonathan Taylor and the next wave of 3-down/receiving backs to go in rounds 2-3.
-- **Injury flag**: Ashton Jeanty (Raiders) sprained his ankle in practice (Aug 23); team says he's "counting" on Jeanty for Week 1 but his ADP has slipped to around pick 18 in the last week. Rookie Mike Washington Jr. has looked good in Jeanty's absence — worth watching who wins snaps if Jeanty isn't full-go.
+- **Injury update (Ashton Jeanty, LV)**: sprained his ankle in practice Aug 23; as of Sept 1 he was working with trainers again during a media viewing window — first participation since the injury. Coach Klint Kubiak says the team is "counting on him" for Week 1, and the Raiders have not placed him on IR (which would guarantee a 4-game absence), so the worst realistic case looks like a limited Week 1 rather than a multi-week loss. He's currently going in the back half of Round 3 across both sources — treat that as fair value, not a reach.
+- **Related note**: Trey Benson (RB, ARI) — the presumed complementary back behind James Conner in Arizona — is out for the season with a knee injury. That's a small tailwind for Jeremiyah Love's (ARI rookie RB, Tier 3) workload if Conner needs a breather, worth a mid-draft glance if you're already stacked at RB.
 - **Approach**: Because your league only has 1 FLEX and no extra bench-friendly RB slot pressure (6 bench spots, 10 teams — RB is a bit less scarce than in 12-team leagues), you have real flexibility to go WR-heavy early and still find a startable RB2/3 through round 5-6 or waivers, if you commit to being active on the wire.
 
 ## 4. Wide Receiver
 
-Deepest position this year per the sources searched — WR is where "best player available" tends to pay off in rounds 2-4 since the WR3/4 tier stays useful longer than the equivalent RB tier.
+Deepest position this year per both sources — WR is where "best player available" tends to pay off in rounds 2-4 since the WR3/4 tier stays useful longer than the equivalent RB tier.
 
 - Elite tier: Ja'Marr Chase, Puka Nacua, Jaxon Smith-Njigba (see Tier 1 above).
-- **Injury flags**: Ricky Pearsall (49ers) is **out for the season** (PCL surgery) — drop him from any pre-draft list. Jayden Higgins (Texans) is also **out for the season** (torn ACL) — same treatment.
-- **Sleeper flag**: Alec Pierce (Colts) called out by at least one analytics model as a value target off his big-play/yards-per-catch profile last year.
+- **Injury flags, confirmed still out**: Ricky Pearsall (49ers, PCL surgery) and Jayden Higgins (Texans, torn ACL) are both out for the season — neither appears anywhere in ESPN's current top-160, which confirms the earlier read. Drop both from your list.
+- **Sleeper flag, now partly priced in**: Alec Pierce (Colts) shows up around Tier 9 (~pick 104) in this reconciliation — still a value relative to his big-play/yards-per-catch profile, but no longer a true off-the-radar sleeper since both sources already have him ranked.
 
 ## 5. Tight End — draft-cliff position
 
 TE is the position where the scarcity is real and mostly untouched by PPR math — once the top few options are gone, it becomes a touchdown-dependent guessing game. Your league does **not** use TE-premium scoring (no bonus for TE receptions beyond standard PPR), so don't overpay TE just because "TE premium" articles are floating around — that scoring quirk doesn't apply to you.
 
-- **Top tier**: Brock Bowers (ADP ~19.9, often TE1 off the board), Trey McBride (ADP ~23.9, 110+ catches and 1,100+ yards each of the last two years), George Kittle.
-- **Next tier**: Sam LaPorta (new OC, could rebound), Travis Kelce (still Mahomes' guy), Mark Andrews (positive camp reports), Isaiah Likely (name to watch as a value/breakout target — at least one model has him TE9, ahead of players going nearly two rounds earlier).
-- **Strategy**: If you don't leave the first 3 rounds with a top-3 TE, plan to punt the position to the mid-late rounds and target the LaPorta/Likely/Andrews tier for value rather than reaching in round 4-5 for TE6-8.
+- **Top tier**: Brock Bowers and Trey McBride have both climbed into Tier 3 (~picks 16-18, effectively late Round 2) — noticeably pricier than the "ADP ~20-24" range noted in the previous version of this sheet. If you want a top-2 TE, be ready to spend a real pick, not a value pick.
+- **Next tier**: Colston Loveland, Tyler Warren, Harold Fannin Jr., Kyle Pitts Sr. cluster in Tiers 4-6.
+- **Source disagreement worth knowing**: ESPN ranks George Kittle notably higher (Tier 6, ~pick 64) than FantasyPros' positional list (TE10, behind Kelce and even rookie Dalton Kincaid). If you like Kittle as a target, don't expect him to fall as far as FantasyPros' list implies.
+- **Value name**: Isaiah Likely (Tier 10, ~pick 127) is still the name analytics models flag as underpriced relative to target share.
+- **Strategy**: If you don't leave the first 2-3 rounds with a top-tier TE, plan to punt the position to the mid-late rounds and target the LaPorta/Kraft/Likely tier for value rather than reaching for TE6-8 in round 4-5.
 
 ## 6. Kicker & Defense — your league's scoring quirks matter here
 
-- **Kicker**: Your league scores kickers by **distance made** (0.1 pt/yard, no bonus by distance bucket, no penalty for a miss). This is different from standard "3pt short FG / 5pt long FG" scoring — it rewards kickers on offenses that stall in opponent territory (long FG attempts) over kickers on high-scoring offenses that mostly kick short FGs/XPs. Draft your kicker dead last, but when you do, lean toward a leg on a mediocre offense that still moves the ball into the 35-45 yard range, not just "best offense" kickers.
+- **Kicker**: Your league scores kickers by **distance made** (0.1 pt/yard, no bonus by distance bucket, no penalty for a miss). This is different from standard "3pt short FG / 5pt long FG" scoring — it rewards kickers on offenses that stall in opponent territory (long FG attempts) over kickers on high-scoring offenses that mostly kick short FGs/XPs. The consensus top kickers right now (Brandon Aubrey, Cameron Dicker) are strong offenses that still get into scoring range often, which works fine under this scoring too — but draft your kicker dead last regardless, and if a name outside the top tier plays for a stalling-drives offense, that's a fine streaming target later.
 - **Defense**: Heavy points-allowed scoring (+10 shutout down to -4 for 35+ allowed) plus a 4th-down-stop bonus. Don't draft a "name brand" DEF early — stream matchups against bad offenses/backup QBs, especially in weeks after the draft once schedules are known.
 
 ## 7. Draft Strategy Options
