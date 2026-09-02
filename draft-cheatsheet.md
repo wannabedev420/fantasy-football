@@ -1,6 +1,6 @@
 # Draft Cheat Sheet — Garse and the Guys (2026)
 
-**Draft**: Monday, Sept 6, 2026 6:00 PM · Snake draft · 10 teams · slot TBD
+**Draft**: Monday, Sept 7, 2026 6:00 PM · Snake draft · 10 teams · slot TBD
 **Scoring**: Full PPR, 6-pt passing TD, 0.1/rush-rec yd, 0.04/pass yd, distance-based K, points-allowed-heavy DEF
 **Roster**: QB, RB, RB, WR, WR, TE, FLEX, K, DEF, 6 BN (15 total)
 **Confirmed**: 15-round draft, not a keeper league (fresh start for 2026). **Still open**: your draft slot, once Sleeper assigns it.

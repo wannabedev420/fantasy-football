@@ -2,7 +2,7 @@
 
 Live pick-by-pick record. Update as picks come off the board during the draft call with Rob.
 
-**Draft date**: Monday, Sept 8, 2026, 6:00 PM
+**Draft date**: Monday, Sept 7, 2026, 6:00 PM
 **My slot**: TBD (known day-of)
 **Total rounds**: 15 (confirmed, not a keeper league)
 
