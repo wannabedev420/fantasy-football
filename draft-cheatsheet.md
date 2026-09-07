@@ -100,7 +100,7 @@ Pick the approach based on where you actually land once your slot is assigned �
 | **Robust-RB** | 3 RBs in your first 4 picks | Your slot lands you 2 of the true Tier-1 RBs (e.g., picks land you a Gibbs/Robinson/McCaffrey-type plus a Tier-2 RB) | Can leave you thin at WR/TE in a league where WR depth is the deeper position this year |
 | **Best-Player-Available (balanced)** | Take the highest-value player each round regardless of position, fill roster shape opportunistically | Default/safe choice — recommended given how flat the WR2-4 tier is and how deep the WR pool runs relative to RB | Lower ceiling than a well-executed Zero-RB or Robust-RB, but much lower bust risk |
 
-**Recommendation given your league (10 teams, single FLEX, deep bench):** default to best-player-available through the first 3-4 rounds, lean into WR/elite-TE value if it's there (WR depth rewards this), and prioritize locking 2 startable RBs by round 5-6 given you only have 1 FLEX to cover for a bad RB week.
+**Confirmed strategy for tonight:** default to best-player-available through the first 3-4 rounds, lean into WR/elite-TE value if it's there (WR depth rewards this), and prioritize locking 2 startable RBs by round 5-6 given you only have 1 FLEX to cover for a bad RB week. This is the plan going in — the pick-by-pick outlook below still flags where to bend it if the board falls unusually.
 
 ### Your slot: 5 — pick-by-pick outlook
 
