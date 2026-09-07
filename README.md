@@ -8,7 +8,7 @@ Season-long assistant folder for our Sleeper league. Co-managed with Rob (resear
 
 ## How to use this repo
 
-**On draft day (Sept 7):** Use your **local Mac session** (`cd ~/fantasy-football-2026 && claude`), not the cloud one — it has real network access for last-minute injury checks and won't get reclaimed mid-draft for inactivity between picks. `git pull` first (see Staying in sync below). Then keep `draft-cheatsheet.md` open for reference, paste picks in as they happen ("Picks so far: ... I'm on the clock, RBs available: X/Y/Z, who fits?"), and have it update `draft-log.md` live. Push once at the end.
+**On draft day (Sept 7):** Use your **local Mac session** (`cd ~/garse-and-the-guys-2026 && claude`), not the cloud one — it has real network access for last-minute injury checks and won't get reclaimed mid-draft for inactivity between picks. `git pull` first (see Staying in sync below). Then keep `draft-cheatsheet.md` open for reference, paste picks in as they happen ("Picks so far: ... I'm on the clock, RBs available: X/Y/Z, who fits?"), and have it update `draft-log.md` live. Push once at the end.
 
 **In-season (weekly):** Two options, either works from local Claude Code:
 - *Quick manual check*: run `claude`, ask "pull my Sleeper roster and summarize any news from the last 24 hours."
